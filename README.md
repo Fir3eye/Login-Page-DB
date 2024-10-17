@@ -58,5 +58,5 @@ pip install flask mysql-connector-python werkzeug
 ```
 - Start the Flask application:
 ```
-python app.py
+python3 app.py
 ```
