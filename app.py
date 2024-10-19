@@ -7,7 +7,7 @@ app.secret_key = "supersecretkey"
 
 # MySQL Database Connection
 db = mysql.connector.connect(
-    host="<ec2-public-ip>",  # Replace with your EC2 instance's public IP
+    host="mysql",  # Replace with your EC2 instance's public IP
     user="root",
     password="password",
     database="mydb"
