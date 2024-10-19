@@ -6,25 +6,26 @@
 <table>
   <tr>
     <td>
-      <a href="https://youtu.be/RDiza4DcGs8?si=w1Y_xL1NBj6eeWgc" target="_blank">
-        <img src="https://ytcards.demolab.com/?id=RDiza4DcGs8&title=Part+-+31.+Deploy+Flask+App+Using+Docker+Compose+%7C+DevOps+Project+%7C+%40SenDevOps&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" 
+      <a href="https://www.youtube.com/watch?v=jRUFai_M-C0" target="_blank">
+        <img src="https://ytcards.demolab.com/?id=jRUFai_M-C0&title=Part+-+31.+Deploy+Flask+App+Using+Docker+Compose+%7C+DevOps+Project+%7C+%40SenDevOps&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" 
         alt="Part - 31. Deploy Flask App Using Docker Compose | DevOps Project | @SenDevOps" width="250" style="border-radius:5px;">
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=DACa2_JmVhE&t=598s" target="_blank">
-        <img src="https://ytcards.demolab.com/?id=ZzNP0P35Kio&title=Part+-+30.+Deploy+Flask+App+With+Docker+%7C+DevOps+Projects+%7C+%40SenDevOps&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" 
+      <a href="https://www.youtube.com/watch?v=-HfM4pe2NAw&t=61s" target="_blank">
+        <img src="https://ytcards.demolab.com/?id=-HfM4pe2NAw&title=Part+-+30.+Deploy+Flask+App+With+Docker+%7C+DevOps+Projects+%7C+%40SenDevOps&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" 
         alt="Part - 30. Deploy Flask App With Docker | DevOps Projects | @SenDevOps" width="250" style="border-radius:5px;">
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=ZzNP0P35Kio&t=1094s" target="_blank">
-        <img src="https://ytcards.demolab.com/?id=JIkr2VoY960&title=Part+-+29.+Deploy+Flask+App+on+EC2+Using+MySQL+Database+%7C+%40SenDevOps&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" 
+      <a href="https://www.youtube.com/watch?v=IIC3LfnyOJI&t=47s" target="_blank">
+        <img src="https://ytcards.demolab.com/?id=IIC3LfnyOJI&title=Part+-+29.+Deploy+Flask+App+on+EC2+Using+MySQL+Database+%7C+%40SenDevOps&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" 
         alt="Part - 29. Deploy Flask App on EC2 Using MySQL Database | @SenDevOps" width="250" style="border-radius:5px;">
       </a>
     </td>
   </tr>
 </table>
+
 
 
 # Part -1. Run in Local Server or EC2
