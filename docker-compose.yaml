@@ -26,5 +26,4 @@ services:
       FLASK_ENV: development           # Set Flask environment
       DATABASE_URL: mysql+pymysql://root:password@mysql:3306/mydb  # Database connection string
       restart: always
-volumes:
-  mysql_data:                          # Named volume for MySQL data persistence
+                      # Named volume for MySQL data persistence
