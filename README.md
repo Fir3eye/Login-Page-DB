@@ -154,3 +154,16 @@ docker run -d \
 ```
 http://<your-ec2-public-ip>:5000
 ```
+# Run Using Docker-Compose File
+- Install Docker Compose
+```
+apt install docker-compose
+```
+- Run the Application
+```
+docker-compose up -d
+```
+- Down the Container
+```
+docker-compose down 
+```
