@@ -6,6 +6,12 @@
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=VcZaCSAO1wo" target="_blank">
+        <img src="https://ytcards.demolab.com/?id=VcZaCSAO1wo&title=Part+-+32.+Created+CI%2FCD+Pipeline+For+Flask+Application+%7C+DevOps+Project+%7C+%40SenDevOps&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" 
+        alt="Part - 32. Created CI/CD Pipeline For Flask Application | DevOps Project | @SenDevOps" width="250" style="border-radius:5px;">
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=jRUFai_M-C0" target="_blank">
         <img src="https://ytcards.demolab.com/?id=jRUFai_M-C0&title=Part+-+31.+Deploy+Flask+App+Using+Docker+Compose+%7C+DevOps+Project+%7C+%40SenDevOps&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" 
         alt="Part - 31. Deploy Flask App Using Docker Compose | DevOps Project | @SenDevOps" width="250" style="border-radius:5px;">
